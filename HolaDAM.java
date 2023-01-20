@@ -10,6 +10,7 @@ package holadam;
  */
 public class HolaDAM {public static void main(String[] args) {
             System.out.println("Hola haha");
+            System.out.println("Hola hehe");
     }
 }
 
